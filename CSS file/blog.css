@@ -1,0 +1,31 @@
+h3{
+    size: 30px;
+    text-decoration: overline;
+}
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px;
+}
+.okkk{
+    border: 2px dotted red;
+}
+.head{
+    font-size: 36px;
+    color: rgb(238, 255, 0);
+    text-align: center;
+    height: 400px;
+    background-image: url(coursethumbnail.png);
+}
+button{
+    font-size: 20px;
+    display: block;
+    margin: auto;
+    color: blue;
+    ba
+}
+.a{
+    color: rgb(255, 0, 0);
+    display: block;
+    margin: auto;
+}
